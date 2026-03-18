@@ -1,1 +1,0 @@
-xst -intstyle ise -ifn "C:/Users/ELFEEL/Xilinx/MIPS_PROCESSOR/signext.xst" -ofn "C:/Users/ELFEEL/Xilinx/MIPS_PROCESSOR/signext.syr" 
